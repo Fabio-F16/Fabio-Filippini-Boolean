@@ -1,0 +1,69 @@
+body{
+  background-size: cover;
+
+}
+
+.container{
+  background-color: rgba(0,0,0,0.5);
+  width: 1100px;
+  height: 700px;
+  margin-top: 60px;
+  margin-right:auto;
+  margin-bottom:50px;
+  margin-left: auto;
+  padding: 100px;
+  border-radius: 10px;
+
+
+
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+
+}
+
+.title{
+  text-align: center;
+  color: limegreen;
+}
+
+nav{
+  background: limegreen;
+  text-align: center;
+  padding: 10px;
+
+}
+
+main{
+  color: white;
+}
+
+.scooter{
+  line-height: 0.5;
+  padding: 7px;
+}
+
+.charge-medium {
+  width: 350px;
+  height: 25px;
+  background-color: orange;
+  border-radius: 10px 10px 10px 10px;
+}
+.charge-full {
+  width: 550px;
+  height: 25px;
+  background-color: green;
+  border-radius: 10px 10px 10px 10px;
+
+}
+.charge-low{
+  width: 200px;
+  height: 25px;
+  background-color: red;
+  border-radius: 10px 10px 10px 10px;
+
+}
